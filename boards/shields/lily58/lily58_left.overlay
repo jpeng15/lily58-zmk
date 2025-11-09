@@ -11,6 +11,6 @@
         ;
 };
 
-&encoder {
+&left_encoder {
     status = "okay";
 };
